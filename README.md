@@ -1,2 +1,2 @@
-# Binary_Search_Apli
+# Binary Search
  Applications of binary Search
